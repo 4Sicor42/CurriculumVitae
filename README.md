@@ -1,2 +1,2 @@
 # CurriculumVitae
-[CV](https://4sicor42.github.io/CurriculumVitae/cv.md)v
+[CV](https://4sicor42.github.io/CurriculumVitae/cv.md)
